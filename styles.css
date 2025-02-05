@@ -100,7 +100,7 @@
  }
 
  ul li.checked::before {
-    background-image: url(images/check-mark.png);
+    background-image: url(images/check-green.png);
     
  }
 
